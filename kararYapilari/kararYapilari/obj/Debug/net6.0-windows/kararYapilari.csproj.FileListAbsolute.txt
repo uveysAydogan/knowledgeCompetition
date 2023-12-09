@@ -1,0 +1,17 @@
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\bin\Debug\net6.0-windows\kararYapilari.exe
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\bin\Debug\net6.0-windows\kararYapilari.deps.json
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\bin\Debug\net6.0-windows\kararYapilari.runtimeconfig.json
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\bin\Debug\net6.0-windows\kararYapilari.dll
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\bin\Debug\net6.0-windows\kararYapilari.pdb
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\kararYapilari.Form1.resources
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\kararYapilari.csproj.GenerateResource.cache
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\kararYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\kararYapilari.AssemblyInfoInputs.cache
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\kararYapilari.AssemblyInfo.cs
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\kararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\kararYapilari.dll
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\refint\kararYapilari.dll
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\kararYapilari.pdb
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\kararYapilari.genruntimeconfig.cache
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\ref\kararYapilari.dll
+C:\Users\Uveys\Desktop\C# 2023\kararYapilari\kararYapilari\obj\Debug\net6.0-windows\kararYapilari.Properties.Resources.resources
